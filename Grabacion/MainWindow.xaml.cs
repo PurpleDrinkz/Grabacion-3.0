@@ -84,7 +84,7 @@ namespace Grabacion
                 sldVolumen.Value = Math.Abs(muestra32bits);
                 
                 
-                FastFourierTransform.
+               
                 
                 //lblMuestra.Text = muestra.ToString();
                 //sldVolumen.Value = (double)muestra;
